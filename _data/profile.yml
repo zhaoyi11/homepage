@@ -22,14 +22,15 @@ short_bio: >-
   I am a PhD candidate at Robot Learning Group, Aalto University, advised by Joni Pajarinen and Juho Kannala. 
   My research interests are reinforcement learning and robot learning.
   I received my MSc degree from Aalto University, Finland and BEng degree from Huazhong University of Science and Technology, China. 
-  I am currently visiting at Max Planck Institute for Intelligent Systems, working with Dieter Büchler and Bernhard Schölkopf
+  I am currently visiting at Max Planck Institute for Intelligent Systems, working with Dieter Büchler and Bernhard Schölkopf.
+
 portrait_url: /assets/images/photos/yi_img_square.jpg
 portrait_caption: >-
   Photo by Yuxin Hou in Iceland with volcano eruption in the background.
 
 experience:
 - name: Aalto University, Finland
-  logo: /assets/images/badges/aalgo_logo.png
+  logo: /assets/images/badges/aalto_logo.png
   position: Doctoral Candidate
   date: Feb. 2021 - now
 
@@ -41,12 +42,12 @@ experience:
 - name: Aalto University, Finland
   logo: /assets/images/badges/aalto_logo.png
   position: Master of Science
-  data: 2020
+  date: 2020
 
 - name: Huazhong University of Science and Technology, China
   logo: /assets/images/badges/hust_logo.png
   position: Bachelor of Engineering
-  data: 2017
+  date: 2017
 
 # experience:
 # - name: Peking University
