@@ -1,7 +1,7 @@
 ---
 title:          "Optimistic Multi-Agent Policy Gradient for Cooperative Tasks"
 date:           2024-05-25 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "International Conference on Machine Learning"
 pub_date:       "2024"
 # abstract: >-

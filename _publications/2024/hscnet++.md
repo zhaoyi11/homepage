@@ -1,7 +1,7 @@
 ---
 title:          "Hscnet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer"
 date:           2024-02-06 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "International Journal of Computer Vision"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
