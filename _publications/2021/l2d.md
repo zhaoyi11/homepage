@@ -10,7 +10,7 @@ pub_date:       "2021"
 
 # abstract: >-
 #   Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
-cover:          /assets/images/covers/l2d.png
+cover:          /assets/images/covers/l2d.gif
 authors:
   - Ari Viitala*
   - Rinu Boney*
@@ -19,4 +19,5 @@ authors:
   - Juho Kannala
 links:
   Paper: https://arxiv.org/abs/2008.00715
+  Website: https://sites.google.com/view/donkeycar
 ---
