@@ -16,6 +16,7 @@ authors:
   - Joni Pajarinen
 links:
   Paper: https://arxiv.org/abs/2311.01953
-  # Code: https://github.com
+  Code: https://github.com/wenshuaizhao/optimappo
+  Website: https://wenshuaizhao.github.io/optimappo/
   # Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
 ---
