@@ -2,7 +2,7 @@
 title:          "Hierarchical scene coordinate classification and regression for visual localization"
 date:           2020-12-01 00:01:00 +0800
 selected:       true
-pub:            "Conference on Computer Vision and Pattern Recognition"
+pub:            "Conference on Computer Vision and Pattern Recognition (CVPR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
