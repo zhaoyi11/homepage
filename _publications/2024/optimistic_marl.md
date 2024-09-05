@@ -1,5 +1,5 @@
 ---
-title:          "Optimistic Multi-Agent Policy Gradient for Cooperative Tasks"
+title:          "Optimistic Multi-Agent Policy Gradient"
 date:           2024-05-25 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
