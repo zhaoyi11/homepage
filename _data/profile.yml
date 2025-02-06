@@ -19,11 +19,11 @@ github: zhaoyi11
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am a PhD candidate at Robot Learning Group, Aalto University, advised by Joni Pajarinen and Juho Kannala. 
-  My research interests are reinforcement learning and robot learning.
-  I received my MSc degree from Aalto University, Finland and BEng degree from Huazhong University of Science and Technology, China. 
-  I am currently visiting at Max Planck Institute for Intelligent Systems, working with Dieter Büchler and Bernhard Schölkopf.
-
+  I am a PhD candidate at the Robot Learning Group at Aalto University, advised by Joni Pajarinen and Juho Kannala. 
+  My research interests include reinforcement learning and robot learning. 
+  I received my MSc degree from Aalto University in Finland and my BEng degree from Huazhong University of Science and Technology in China. 
+  From February to December 2024, I was a visiting researcher at the Max Planck Institute for Intelligent Systems, working with Dieter Büchler and Bernhard Schölkopf.
+  
 portrait_url: /assets/images/photos/yi_img_square.jpg
 portrait_caption: >-
   Photo by Yuxin Hou in Iceland with volcano eruption in the background.
@@ -37,7 +37,7 @@ experience:
 - name: Max Planck Institute for Intelligent Systems, Germany
   logo: /assets/images/badges/mpi_logo.jpg
   position: Research Visit
-  date: Feb. 2024 - now
+  date: Feb. 2024 - Dec. 2024
 
 - name: Aalto University, Finland
   logo: /assets/images/badges/aalto_logo.png
