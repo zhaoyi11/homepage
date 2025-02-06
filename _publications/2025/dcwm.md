@@ -1,6 +1,6 @@
 ---
 title:          "Discrete Codebook World Models for Continuous Control"
-date:           2024-01-23 00:01:00 +0800
+date:           2025-01-23 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Learning Representations (ICLR)"
 pub_date:       "2025"

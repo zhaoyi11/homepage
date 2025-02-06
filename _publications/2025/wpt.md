@@ -1,6 +1,6 @@
 ---
 title:          "Generalist World Model Pre-Training for Efficient Reinforcement Learning"
-date:           2024-02-01 00:01:00 +0800
+date:           2025-02-01 00:01:00 +0800
 selected:       true
 pub:            "Preprint to appear soon"
 pub_date:       "2025"
