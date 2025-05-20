@@ -18,6 +18,6 @@ authors:
   - Joni Pajarinen
 links:
   Paper: https://openreview.net/pdf?id=lfRYzd8ady
-  # Code: https://github.com
-  # Website: https://rp1m.github.io/
+  Code: https://github.com/aidanscannell/dcmpc
+  Website: https://www.aidanscannell.com/dcmpc/
 ---
